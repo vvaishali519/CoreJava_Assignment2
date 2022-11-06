@@ -41,7 +41,7 @@ public class QuickSort {
 		
 		quickSort(arr,0,size-1);
 		
-		System.out.print("Elemets after Sorting: ");
+		System.out.print("Elements after Sorting: ");
 		for(int i=0;i<size;i++) {
 			System.out.print(arr[i]+" ");
 		}
